@@ -1,0 +1,11 @@
+行 13: ｸﾗｽ MSCommLib.MSComm(ｺﾝﾄﾛｰﾙ MSComm1) はﾛｰﾄﾞされていません。
+行 16: ﾌﾟﾛﾊﾟﾃｨ名 _ExtentX(MSComm1) が不正です。
+行 17: ﾌﾟﾛﾊﾟﾃｨ名 _ExtentY(MSComm1) が不正です。
+行 18: ﾌﾟﾛﾊﾟﾃｨ名 _Version(MSComm1) が不正です。
+行 19: ﾌﾟﾛﾊﾟﾃｨ名 CommPort(MSComm1) が不正です。
+行 20: ﾌﾟﾛﾊﾟﾃｨ名 DTREnable(MSComm1) が不正です。
+行 21: ﾌﾟﾛﾊﾟﾃｨ名 NullDiscard(MSComm1) が不正です。
+行 22: ﾌﾟﾛﾊﾟﾃｨ名 RThreshold(MSComm1) が不正です。
+行 23: ﾌﾟﾛﾊﾟﾃｨ名 RTSEnable(MSComm1) が不正です。
+行 24: ﾌﾟﾛﾊﾟﾃｨ名 SThreshold(MSComm1) が不正です。
+行 25: ﾌﾟﾛﾊﾟﾃｨ名 InputMode(MSComm1) が不正です。

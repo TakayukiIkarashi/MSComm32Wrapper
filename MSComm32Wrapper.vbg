@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=MSComm32Wrapper.vbp
+StartupProject=MSComm32WrapperTest.vbp
